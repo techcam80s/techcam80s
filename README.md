@@ -15,7 +15,7 @@ I'm passionate about creating **AI-powered platforms** that help people navigate
 
 ---
 
-## 🚀 My Journey Since 2019
+## 🚀 My Journey Since I started on GitHub (yes there are a few years of neglect)!
 
 ### **2025 - Present: Leading AI Innovation**
 **Director of Business Development** | *AI-Powered Immigration Technology Firm*
