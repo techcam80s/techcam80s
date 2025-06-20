@@ -150,17 +150,14 @@ Started contributing to open‑source during global mobility projects.
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techcam80s&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true" alt="Cameron’s GitHub stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=techcam80s&theme=gruvbox_light&hide_border=false" alt="Cameron’s GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcam80s&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=techcam80s&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=techcam80s&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=techcam80s&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techcam80s&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=techcam80s&theme=solarized-light&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
