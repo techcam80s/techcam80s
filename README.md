@@ -63,18 +63,43 @@ Started contributing to open-source during global mobility projects.
 <details>
 <summary><strong>🛠️ Technologies I Work With</strong> (click to expand)</summary>
 
-### 💡 Core Stack:
-- **Frontend**: React, HTML5, CSS3, Tailwind, Web Components  
-- **Backend**: Node.js, Express *(currently deepening backend expertise)*  
-- **Databases**: PostgreSQL, MongoDB, Real-Time Analytics  
-- **Cloud**: AWS (EC2, S3, CloudWatch)  
-- **AI/ML**: Custom AI tools for document parsing and automation  
+### 💡 Core Stack
 
-### 🚀 Where I Build:
-- GovTech: Immigration, Border, and Identity Systems  
-- Mobility: EV Subscriptions, Connected Transport  
-- AI: Predictive Systems, NLP, Document AI  
-- PolicyTech: AI Regulation, Cross-Border Data Privacy  
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web--Components-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Real-time Analytics](https://img.shields.io/badge/Real--Time_Analytics-FF6F00?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+
+**AI / Machine Learning**  
+![AI Tools](https://img.shields.io/badge/AI_Tools-7E57C2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Document Parsing](https://img.shields.io/badge/Document_Parsing-FFC107?style=for-the-badge&logo=docsdotai&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-2196F3?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+### 🚀 Where I Build
+
+- 🏛️ **GovTech**: Immigration, Border, and Identity Systems  
+- 🚗 **Mobility**: EV Subscriptions, Connected Transport  
+- 📊 **AI**: Predictive Systems, NLP, Document AI  
+- 📜 **PolicyTech**: AI Regulation, Cross-Border Data Privacy  
 
 </details>
 
