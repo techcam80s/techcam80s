@@ -1,139 +1,149 @@
-# Cameron Pearson | Digital Technology Leader
+# 👋 Cameron Pearson | Digital Technology Leader
 
-**🏠 London, UK** | **🎓 MBA Digital Transformation** | **🤖 AI & GovTech Specialist**
-
----
-
-## 🎯 What I'm Building: Technology That Actually Matters
-
-I'm passionate about creating **AI-powered platforms** that help people navigate complex bureaucratic processes more easily. Currently leading the commercialisation of immigration technology that serves global enterprises and public sector organisations, with systems that can reduce processing times by **75%** whilst making everything more secure and user-friendly.
-
-**🔥 What Keeps Me Busy:**
-- **Public Sector Innovation**: Immigration and border technology for national authorities
-- **Policy Meets Practice**: Contributing to AI governance discussions across European policy forums
-- **Real-World Impact**: Scaling government-grade platforms from clever prototypes to production systems that actually work
+🏠 **Location**: London, UK  
+🎓 **Education**: MBA in Digital Transformation  
+🤖 **Specialisation**: AI, GovTech & Digital Innovation  
 
 ---
 
-## 🚀 My Journey Since I started on GitHub (yes there are a few years of neglect)!
+## 🚀 What I'm Building: Technology That Actually Matters
 
-### **2025 - Present: Leading AI Innovation**
-**Director of Business Development** | *AI-Powered Immigration Technology Firm*
-- Building algorithms that process 50,000+ documents daily for public sector clients
-- Securing substantial enterprise contracts across the UK and Europe
-- Managing commercial operations with 95% monthly forecasting accuracy (yes, I'm quite proud of that!)
+> I lead the development and commercialization of **AI-powered platforms** that simplify complex government and enterprise processes. From **immigration technology** to **digital public services**, I'm passionate about creating systems that are **secure, scalable, and citizen-focused**.
 
-### **2024 - 2025: European Market Expansion**
-**European Sales Director** | *Digital Visa Solutions Company*
-- Drove 30% market share growth across the UK and Central Europe
-- Led digital transformation initiatives for complex visa application processes
-- Secured strategic partnerships contributing over €1M in premium service revenues
-
-### **2020 - 2024: Revolutionising Mobility**
-**Digital Product Leader** | *Leading European Mobility Platform*
-- Launched what became Europe's first digital EV subscription service
-- Grew from absolutely nothing to 5,000 monthly transactions in 18 months
-- Generated £800K+ annual revenue through pure digital innovation
-
-### **2016 - 2020: Pioneering Connected Vehicles**
-**Technology Innovation Manager** | *Premium Automotive Manufacturer*
-- Helped capture 25% of the luxury electric vehicle market through connected car technology
-- Built AI-powered inventory systems that improved operational efficiency by 30%
-- Integrated regional dealer systems with global platforms (quite the technical challenge!)
-
-### **2019: GitHub Journey Begins** 
-Started contributing to open-source projects whilst pioneering automotive technology solutions in the Southern Hemisphere
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Sector%20Innovation-%F0%9F%91%AE-blue" />
+  <img src="https://img.shields.io/badge/AI%20Governance-%F0%9F%92%AC-purple" />
+  <img src="https://img.shields.io/badge/Real%20World%20Impact-%E2%9C%85-success" />
+</p>
 
 ---
 
-## 🛠️ What I Actually Build
+<details>
+<summary><strong>📈 Professional Timeline</strong> (click to expand)</summary>
 
-**The Technical Bits:**
-- **Backend**: _I'm still learning about the foundations that matter!_
-- **Frontend**: React, Modern Web Technologies (making things people actually want to use)
-- **Database**: PostgreSQL, MongoDB, Real-time Analytics (data that tells stories)
-- **Cloud**: AWS (keeping everything running smoothly)
-- **AI/ML**: _Custom development and always learning_
+### 🧠 2025–Present: Leading AI Innovation  
+**Director of Business Development** | *AI Immigration Tech Firm*  
+- Processing 50,000+ documents/day with AI models  
+- 95%+ monthly forecasting accuracy  
+- Secured government-scale enterprise contracts  
 
-**Where I Make My Mark:**
-- **Government Technology**: Immigration, Border Security, Digital Identity (helping people navigate complex systems)
-- **Mobility & Transportation**: Connected Vehicles, EV Platforms, Digital Transformation (the future of how we move)
-- **AI & Machine Learning**: Document Processing, Predictive Analytics, Automation (making computers do the boring bits)
-- **Policy & Regulation**: AI Governance, Data Privacy, Cross-border Compliance (ensuring technology actually helps rather than hinders)
+### 🌍 2024–2025: European Market Expansion  
+**Sales Director (Europe)** | *Digital Visa Solutions*  
+- Grew market share by 30% in UK & Central Europe  
+- Delivered €1M+ revenue via premium digital services  
 
----
+### ⚡ 2020–2024: EV & Mobility Revolution  
+**Digital Product Leader** | *Mobility Tech Platform*  
+- Launched Europe’s first digital EV subscription  
+- Scaled to 5K+ monthly transactions in 18 months  
 
-## 🌍 Recognition & Real-World Impact
+### 🚗 2016–2020: Automotive Innovation  
+**Innovation Manager** | *Premium Auto Manufacturer*  
+- Captured 25% luxury EV market via connected tech  
+- Built AI inventory system boosting efficiency 30%  
 
-**🏆 Things I'm Rather Chuffed About:**
-- **Innovation Award** from a major European mobility company (2022)
-- **Provost Letter** for outstanding academic performance during my MBA
-- **50%+ Scholarship** to a leading business school for digital transformation specialisation
+### 🌱 2019: GitHub Journey Begins  
+Started contributing to open-source during global mobility projects.
 
-**🎤 Sharing Knowledge:**
-- **International Tech Conference Speaker**: AI Innovation in public sector technology
-- **Policy Forums**: Contributing to AI governance discussions across European institutions
-- **Industry Associations**: Tech specialist for business chambers and trade organisations
-- **Professional Networks**: Active member of technology and policy groups in London
-
-**📊 The Numbers That Matter:**
-- Built platforms generating **£5M+ in annual recurring revenue**
-- Led teams scaling from **startup chaos to organised growth**
-- Delivered **20% year-on-year revenue growth** consistently (even through challenging markets)
-- Managed **£3M+ technology budgets** with precision and accountability
+</details>
 
 ---
 
-## 🇬🇧 Why London, Why Now
+## 🧩 Highlight Projects & Technologies
 
-**What I'm Contributing:**
-- Developing AI solutions for public sector organisations
-- Contributing to the UK's AI strategy through practical, working applications
-- Building technology partnerships with British institutions
-- Mentoring early-stage companies in the GovTech space
-
-**My Long-term Vision:**
-- **Home**: Permanently settled in London with my family
-- **Investment**: Purchasing property here (because this is where we belong)
-- **Community**: Actively involved in UK technology networks and policy discussions
-- **Innovation**: Committed to advancing Britain's global leadership in responsible technology
+| **Project** | **Description** | **Technologies** |
+|------------|-----------------|------------------|
+| 📄 **AI Document Processor** | Large-scale document processing system handling 50,000+ documents daily for public sector immigration services. | Python, AI/ML, Document Processing, Enterprise APIs |
+| 🌍 **Digital Visa Platform** | End-to-end digital transformation solution for complex visa application processes with 95% forecasting accuracy. | Digital Transformation, Process Automation, Data Analytics |
+| 🚗 **EV Subscription Service** | Europe's first digital electric vehicle subscription platform scaling from 0 to 5,000 monthly transactions. | Digital Innovation, Payment Systems, Subscription Management |
+| 🔗 **Connected Vehicle System** | AI-powered inventory and connected car technology platform capturing 25% of luxury EV market share. | AI/ML, IoT, Automotive Technology, System Integration |
 
 ---
 
-## 📈 What You'll Find in My Repositories
+<details>
+<summary><strong>🛠️ Technologies I Work With</strong> (click to expand)</summary>
 
-🔍 **Projects Worth Exploring:**
-- **pool_website**: Mobility technology platform demonstrating connected systems and resource management
-- **Government Innovation Tools**: Immigration and border technology solutions
-- **Digital Transformation Frameworks**: Scalable platform architectures for complex organisations
+### 💡 Core Stack:
+- **Frontend**: React, HTML5, CSS3, Tailwind, Web Components  
+- **Backend**: Node.js, Express *(currently deepening backend expertise)*  
+- **Databases**: PostgreSQL, MongoDB, Real-Time Analytics  
+- **Cloud**: AWS (EC2, S3, CloudWatch)  
+- **AI/ML**: Custom AI tools for document parsing and automation  
 
-📊 **My Contribution Story:**
+### 🚀 Where I Build:
+- GovTech: Immigration, Border, and Identity Systems  
+- Mobility: EV Subscriptions, Connected Transport  
+- AI: Predictive Systems, NLP, Document AI  
+- PolicyTech: AI Regulation, Cross-Border Data Privacy  
+
+</details>
+
+---
+
+<details>
+<summary><strong>🌍 Recognition & Real-World Impact</strong> (click to expand)</summary>
+
+### 🏆 Awards & Honours:
+- 🏅 Innovation Award – Major European Mobility Company (2022)  
+- 🎓 Provost's Letter of Excellence – MBA Distinction  
+- 🎯 50% Scholarship – Leading Business School in Digital Transformation  
+
+### 🎤 Speaker & Advisor Roles:
+- **Tech Conferences**: Public Sector AI Innovation  
+- **Policy Forums**: Contributor to European AI governance discussions  
+- **Industry Associations**: Member & Technology Advisor  
+- **Mentorship**: Supporting GovTech founders & early-stage startups  
+
+### 📊 Key Metrics:
+- 💼 £5M+ in recurring revenue from platforms built  
+- 📈 20% YoY growth — even during turbulent markets  
+- 💰 £3M+ in tech budgets managed with precision  
+
+</details>
+
+---
+
+<details>
+<summary><strong>📂 Featured Repositories</strong> (click to expand)</summary>
+
+- 🧩 **`pool_website`**  
+  Connected mobility platform with real-time vehicle data integration
+
+- 🌐 **`govtech_tools`**  
+  Government-focused tools for immigration and border control
+
+- 🏗️ **`digital_frameworks`**  
+  Scalable transformation frameworks used in regulated industries
+
+```text
+📆 My GitHub Journey:
+2019  🌱  Started with auto tech in the Southern Hemisphere  
+2020  🚀  Mobility transformation projects  
+2021  📈  Enterprise expansion and open-source growth  
+2022  🏆  Innovation recognized across the mobility industry  
+2023  🎓  Research-driven builds during MBA  
+2024  🌍  Governance and compliance tech projects  
+2025  🇬🇧  Building for UK Gov and public sector  
 ```
-2019  🌱  Started GitHub journey during automotive innovation projects
-2020  🚀  Open-source contributions during European mobility transformation
-2021  📈  Scaling repositories alongside international market expansion
-2022  🏆  Innovation award year - increased technical contributions and recognition
-2023  🎓  MBA research projects focusing on AI-driven innovation in regulated sectors
-2024  🌍  European policy engagement - governance and compliance project work
-2025  🇬🇧  UK-focused government technology initiatives and community building
-```
+
+</details>
 
 ---
 
-## 🤝 Let's Build Something Together
+## 🤝 Let's Collaborate
 
-**I'm particularly interested in collaborating on:**
-- **Public Sector Technology**: Digital transformation that genuinely improves citizen services
-- **Responsible AI**: Machine learning implementation in highly regulated environments
-- **Sustainable Mobility**: Connected vehicles and transportation innovation
-- **Policy & Technology**: Bridging the gap between brilliant technical solutions and sensible regulatory frameworks
+💡 I'm especially interested in:
 
-**Get in Touch:**
+- 🏛️ **Public Sector Tech** – Digital tools that improve citizen services  
+- 🤖 **Responsible AI** – Applied machine learning in regulated environments  
+- 🚗 **Sustainable Mobility** – EVs, connected transport, and smart infrastructure  
+- 📜 **Policy & Tech** – Bridging innovation and compliance  
 
-- 🔗 **LinkedIn**: [Cameron-Pearson](https://www.linkedin.com/in/Cameron-Pearson/)
+📬 **Let’s Connect on LinkedIn**  
+[![LinkedIn](https://img.shields.io/badge/Cameron%20Pearson-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/Cameron-Pearson/)
 
 ---
 
-*"I believe technology should make complex systems simpler for everyone, especially when it comes to how governments serve citizens. Security, efficiency, and genuine innovation shouldn't be mutually exclusive."*
+> “Technology should simplify complexity — especially in government. Secure, scalable, and human-centered design isn't just possible, it's essential.”
 
-**📍 Proudly Based in London | 🌐 Working Globally | 🚀 Building the Future**
+📍 *Proudly based in London | 🌐 Collaborating globally | 🚀 Building the future*
