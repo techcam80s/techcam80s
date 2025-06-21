@@ -24,9 +24,9 @@
 
 ### 🧠 2025–Present: Public Sector AI Leadership  
 **Director of Business Development** | *GovTech AI Firm*  
-- AI systems processing 50,000+ documents/day for public agencies  
-- 95%+ monthly forecasting accuracy for operational planning  
-- Secured multi-year public sector contracts across the UK & EU  
+- AI systems capable processing 50,000+ documents/day for public agencies  
+- 85%+ monthly forecasting accuracy for operational planning in a scale up
+- Securing multi-year public sector contracts across the UK & EU  
 
 ### 🌍 2024–2025: European Policy & Expansion  
 **Sales Director (Europe)** | *Digital Visa Solutions*  
