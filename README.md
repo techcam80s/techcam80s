@@ -155,7 +155,6 @@ Started contributing to open-source while building vehicle intelligence systems 
 
 ![](https://github-readme-stats.vercel.app/api?username=techcam80s&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=techcam80s&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techcam80s&theme=gruvbox_light&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
